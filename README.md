@@ -2,7 +2,6 @@
 - 👀 I’m interested in exploring various fields within IT, including network administration, programming, cybersecurity and more.
 - 🌱 I’m currently learning Computer Science with Network Security, focusing on programming, networking, and security fundamentals.
 - 💞️ I’m looking to collaborate on diverse IT domains during my internship to gain hands-on experience.
-- 📫 How to reach me: fhussein2308@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy practicing martial arts; specifically MMA, Jeet Kune and Brazilian Jiu-Jitsu (BJJ).
 
