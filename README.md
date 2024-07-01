@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on diverse IT domains during my internship to gain hands-on experience.
 - 📫 How to reach me: fhussein2308@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy practicing martial arts; specifically MMA, Jeet Kune and BJJ.
+- ⚡ Fun fact: I enjoy practicing martial arts; specifically MMA, Jeet Kune and Brazilian Jiu-Jitsu (BJJ).
 
 <!---
 Fad-Hu/Fad-Hu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
